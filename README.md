@@ -18,8 +18,20 @@ Junior data analyst
 ![DataLens](https://img.shields.io/badge/DataLens-FF4F00?style=flat-square)
 
 
+<div align="left">
+
+<table style="border: none;">
+<tr>
+  
+<td width="420" style="border: 1px solid #444; border-radius: 8px; padding: 20px; background: #0d1117;">
+<h3><a href="https://github.com/yasiksikor/My-portfolio"> 🗃 Portfolio Data Analysis</a></h3>
+Все мои проекты в сфере анализа данных
+  
+</td>
+</tr>
+</table>
+<div>
+
 ### Контакты
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/nanasik_0)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yasik.sikor@gmail.com)
-
-
